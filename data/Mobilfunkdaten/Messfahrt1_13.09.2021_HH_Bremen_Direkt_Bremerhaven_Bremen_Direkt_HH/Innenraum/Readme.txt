@@ -1,0 +1,1 @@
+Beinhaltet Daten zu Geschwindigkeitsmessungen aber nur LTE

@@ -1,0 +1,1 @@
+Beinhaltet Daten zu Geschwindigkeitsmessungen Lte und GSM
