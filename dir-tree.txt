@@ -1,0 +1,90 @@
+.
+├── LICENSE
+├── README.md
+├── data
+│   ├── GigabitGrundbuch
+│   │   └── Aktualisierung-2024-01-Ergebnisse-202401_MobilfunkMonitoring_Bremen.csv
+│   └── Mobilfunkdaten
+│       ├── Messfahrt1_13.09.2021_HH_Bremen_Direkt_Bremerhaven_Bremen_Direkt_HH
+│       │   ├── Aussenantennen
+│       │   │   ├── data_Bremen_Bremerhaven_Bremen
+│       │   │   │   ├── geojson_record_1631531668053_cellular_0.geojson
+│       │   │   │   ├── geojson_record_1631531668053_cellular_1.geojson
+│       │   │   │   ├── geojson_record_1631531668053_cellular_2.geojson
+│       │   │   │   ├── geojson_record_1631531668053_cellular_3.geojson
+│       │   │   │   ├── geojson_record_1631531668053_cellular_4.geojson
+│       │   │   │   └── geojson_record_1631531668053_cellular_5.geojson
+│       │   │   ├── data_Bremen_HH
+│       │   │   │   ├── geojson_record_1631542597885_cellular_0.geojson
+│       │   │   │   ├── geojson_record_1631542597885_cellular_1.geojson
+│       │   │   │   ├── geojson_record_1631542597885_cellular_2.geojson
+│       │   │   │   ├── geojson_record_1631542597885_cellular_3.geojson
+│       │   │   │   ├── geojson_record_1631542597885_cellular_4.geojson
+│       │   │   │   └── geojson_record_1631542597885_cellular_5.geojson
+│       │   │   ├── data_ENQT_HAW
+│       │   │   │   ├── geojson_record_1631520957590_cellular_0.geojson
+│       │   │   │   ├── geojson_record_1631520957590_cellular_1.geojson
+│       │   │   │   ├── geojson_record_1631520957590_cellular_2.geojson
+│       │   │   │   ├── geojson_record_1631520957590_cellular_3.geojson
+│       │   │   │   ├── geojson_record_1631520957590_cellular_4.geojson
+│       │   │   │   └── geojson_record_1631520957590_cellular_5.geojson
+│       │   │   └── data_HAW_Bremen
+│       │   │       ├── geojson_record_1631522517595_cellular_0.geojson
+│       │   │       ├── geojson_record_1631522517595_cellular_1.geojson
+│       │   │       ├── geojson_record_1631522517595_cellular_2.geojson
+│       │   │       ├── geojson_record_1631522517595_cellular_3.geojson
+│       │   │       ├── geojson_record_1631522517595_cellular_4.geojson
+│       │   │       └── geojson_record_1631522517595_cellular_5.geojson
+│       │   └── Innenraum
+│       │       ├── Gsm_262_1.geojson
+│       │       ├── Gsm_262_2.geojson
+│       │       ├── Gsm_262_3.geojson
+│       │       ├── Lte_262_1.geojson
+│       │       ├── Lte_262_2.geojson
+│       │       ├── Lte_262_3.geojson
+│       │       └── Readme.txt
+│       ├── Messfahrt2_17.09.2021_HH_Bremen_Walsrode_Bremerhaven_Bremen_Walsrode_HH
+│       │   ├── Aussenantennen
+│       │   │   ├── data_Bremen_Bremerhaven_Bremen
+│       │   │   │   ├── geojson_record_1631875681780_cellular_0.geojson
+│       │   │   │   ├── geojson_record_1631875681780_cellular_1.geojson
+│       │   │   │   ├── geojson_record_1631875681780_cellular_2.geojson
+│       │   │   │   ├── geojson_record_1631875681780_cellular_3.geojson
+│       │   │   │   ├── geojson_record_1631875681780_cellular_4.geojson
+│       │   │   │   └── geojson_record_1631875681780_cellular_5.geojson
+│       │   │   ├── data_Bremen_HH
+│       │   │   │   ├── geojson_record_1631885802299_cellular_0.geojson
+│       │   │   │   ├── geojson_record_1631885802299_cellular_1.geojson
+│       │   │   │   ├── geojson_record_1631885802299_cellular_2.geojson
+│       │   │   │   ├── geojson_record_1631885802299_cellular_3.geojson
+│       │   │   │   ├── geojson_record_1631885802299_cellular_4.geojson
+│       │   │   │   └── geojson_record_1631885802299_cellular_5.geojson
+│       │   │   └── data_HH_Bremen
+│       │   │       ├── geojson_record_1631865206048_cellular_0.geojson
+│       │   │       ├── geojson_record_1631865206048_cellular_1.geojson
+│       │   │       ├── geojson_record_1631865206048_cellular_2.geojson
+│       │   │       ├── geojson_record_1631865206048_cellular_3.geojson
+│       │   │       ├── geojson_record_1631865206048_cellular_4.geojson
+│       │   │       └── geojson_record_1631865206048_cellular_5.geojson
+│       │   └── Innenraum
+│       │       ├── Gsm_262_1.geojson
+│       │       ├── Gsm_262_2.geojson
+│       │       ├── Gsm_262_3.geojson
+│       │       ├── Lte_262_1.geojson
+│       │       ├── Lte_262_2.geojson
+│       │       ├── Lte_262_3.geojson
+│       │       └── Readme.txt
+│       └── Messfahrt3_16_21.09.2021_Bahnstrecke
+│           ├── Gsm_262_1.geojson
+│           ├── Gsm_262_2.geojson
+│           ├── Gsm_262_3.geojson
+│           ├── Lte_262_1.geojson
+│           ├── Lte_262_2.geojson
+│           └── Lte_262_3.geojson
+├── dir-tree.txt
+├── main.py
+├── output-cell-id.png
+├── output.png
+└── requirements.txt
+
+18 directories, 70 files

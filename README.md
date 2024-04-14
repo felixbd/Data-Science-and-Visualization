@@ -13,8 +13,42 @@ pip3 freeze
 deactivate
 ```
 
+```shell
+tree --gitignore . > dir-tree.txt
+```
 
-# [Data](/data):
+
+# [Data](/data) from [govdata.de](https://govdata.de):
+
+## [Verfügbarkeit von Mobilfunkdiensten](https://gigabitgrundbuch.bund.de/GIGA/DE/MobilfunkMonitoring/Downloads/start.html)
+
+see `/data/GigabitGrundbuch`
+
+### Offenheit der Lizenz:
+
+Freie Nutzung
+
+### Nutzungsbedingungen:
+
+Datenlizenz Deutschland Namensnennung 2.0 
+
+### Letzte Änderung:
+
+27.11.2023
+
+### Veröffentlichungsdatum:
+
+01.12.2023
+
+### Datenbereitsteller:
+
+Open Data Baden-Württemberg
+
+### Veröffentlichende Stelle:
+
+Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
+
+
 
 ## [Mobilfunkdaten Hamburg <-> Bremen <-> Bremerhaven](https://www.govdata.de/web/guest/suchen/-/details/mobilfunkdaten-hamburg-bremen-bremerhaven)
 
